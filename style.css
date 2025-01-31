@@ -1,0 +1,18 @@
+html {
+    scroll-behavior: smooth;
+}
+#about{
+    border: 2px solid black;
+    width: auto;
+    height: 80vh;
+}
+#services{
+    border: 2px solid black;
+    width: auto;
+    height: 80vh;
+}
+#contact{
+    border: 2px solid black;
+    width: auto;
+    height: 80vh;
+}
